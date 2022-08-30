@@ -16,7 +16,7 @@ Simple thread pool implementation
 3. run test
 
    ```c
-   xmake run thread_pool_test
+   xmake run 
    ```
 
    
